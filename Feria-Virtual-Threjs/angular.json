@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Feria-Virtual-Threjs"
+    }
+  },
+  "defaultProject": "Feria-Virtual-Threjs",
+  "cli": {
+    "analytics": "2ac5e2a1-a1b7-47a6-bf30-f0653583bf42"
+  }
 }
